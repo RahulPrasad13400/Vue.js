@@ -2,7 +2,7 @@ const app = Vue.createApp({
     data() {
         return {
             courseGoalA : 'Web Development',
-            courseGoalB : 'Machine Learning',
+            courseGoalB : '<h3>Machine Learning</h3>',
             vueLink : 'https://www.google.com'
         }
     },
