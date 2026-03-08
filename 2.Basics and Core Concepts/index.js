@@ -9,7 +9,7 @@ const app = Vue.createApp({
         this.counter++
     },
     onReduceCounder(){
-        this.counter--
+        this.counter
     }
   }
 });
